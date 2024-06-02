@@ -124,6 +124,40 @@
   left: 688px;
   top: 718px;
 }
+._0-b-60-afe-9-ae-3-fb-394-ed-6-a-121954-f-4-d-5-e-3-removebg-1 {
+  width: 640px;
+  height: 861px;
+  position: absolute;
+  left: 1280px;
+  top: 124px;
+  object-fit: cover;
+}
+.rectangle-17 {
+  background: conic-gradient(
+    from 137.73deg at 50% 50%,
+    rgba(0, 0, 0, 1) 6.499350816011429%,
+    rgba(224, 35, 136, 1) 46.89826965332031%,
+    rgba(39, 99, 183, 1) 53.4933865070343%,
+    rgba(20, 52, 97, 0.53) 74.00311231613159%,
+    rgba(0, 0, 0, 1) 96.79219126701355%
+  );
+  width: 508.36px;
+  height: 559.19px;
+  position: absolute;
+  left: 175.41px;
+  top: 415px;
+  transform-origin: 0 0;
+  transform: rotate(45deg) scale(1, 1);
+  filter: blur(96px);
+}
+.vector-1 {
+  width: 163px;
+  height: 135px;
+  position: absolute;
+  left: 1757px;
+  top: 124px;
+  overflow: visible;
+}
 .frame-7 {
   background: rgba(255, 255, 255, 0.03);
   border-radius: 24px;
@@ -137,7 +171,7 @@
   align-items: flex-start;
   justify-content: flex-start;
   position: absolute;
-  left: calc(50% - 830px);
+  left: calc(50% - 815px);
   top: 43px;
   backdrop-filter: blur(30px);
 }
@@ -196,7 +230,7 @@
   font-weight: var(--ui-label-regular-font-weight, 400);
   position: relative;
 }
-.more {
+.final-project {
   color: #ffffff;
   text-align: left;
   font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
@@ -204,38 +238,4 @@
   line-height: var(--ui-label-regular-line-height, 150%);
   font-weight: var(--ui-label-regular-font-weight, 400);
   position: relative;
-}
-._0-b-60-afe-9-ae-3-fb-394-ed-6-a-121954-f-4-d-5-e-3-removebg-1 {
-  width: 640px;
-  height: 861px;
-  position: absolute;
-  left: 1280px;
-  top: 124px;
-  object-fit: cover;
-}
-.rectangle-17 {
-  background: conic-gradient(
-    from 137.73deg at 50% 50%,
-    rgba(0, 0, 0, 1) 6.499350816011429%,
-    rgba(224, 35, 136, 1) 46.89826965332031%,
-    rgba(39, 99, 183, 1) 53.4933865070343%,
-    rgba(20, 52, 97, 0.53) 74.00311231613159%,
-    rgba(0, 0, 0, 1) 96.79219126701355%
-  );
-  width: 508.36px;
-  height: 559.19px;
-  position: absolute;
-  left: 175.41px;
-  top: 415px;
-  transform-origin: 0 0;
-  transform: rotate(45deg) scale(1, 1);
-  filter: blur(96px);
-}
-.vector-1 {
-  width: 163px;
-  height: 135px;
-  position: absolute;
-  left: 1757px;
-  top: 124px;
-  overflow: visible;
 }
